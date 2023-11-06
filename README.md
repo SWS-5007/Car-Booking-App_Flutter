@@ -1,7 +1,7 @@
-# Cab-Booking-Flutter-Web-App
-Cab Booking Template - Flutter
+# Car-Booking-Flutter-Web-App
+Car Booking Template - Flutter
 
-Cab offers you just about everything you are looking for in a free taxi service website template. Almost, too obvious, don’t you think? But you know the gist of it; keeping things simple and to the point is one of the best approaches to succeed online.
+Car offers you just about everything you are looking for in a free taxi service website template. Almost, too obvious, don’t you think? But you know the gist of it; keeping things simple and to the point is one of the best approaches to succeed online.
 
 With Taxi, you bring your transportation services front and center, and that is what matters most. On top of that, above the fold, you will find a sophisticated and advanced booking form with a date and time picker. What’s more, Taxi gives you a chance to introduce yourself, why you are the best taxi business in town and how they can benefit from you. Of course, do not forget to add a personal touch to your online experience and they will love to return to book another ride.
 
@@ -30,16 +30,6 @@ With Taxi, you bring your transportation services front and center, and that is 
 * Bot Chat UI Template
 * Location Auto Suggestion
 * Google Map Flow Direction & Live Tracking.
-
-# Getting Started
-
-You can download this repo or clone using below command. (folder-name will be project folder in which you want to start your project).
-
-git clone <https://github.com/JadavChirag/Cab-Booking-Flutter-Web-App.gitt> <folder-name>
-
-or from **Download Zip**
-
-<https://github.com/JadavChirag/Cab-Booking-Flutter-Web-App.git>
 
 
 ## Installing Dependencies
